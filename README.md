@@ -14,9 +14,9 @@ This application allows the user to keep track of different workout plans. The u
 Run `npm install` to download required packages, then run `npm start`. 
 ## Usage
 
-View the app on Heroku by [clicking here](https://workout-exercises.herokuapp.com "Visit the app")!
-
 ![](/public/assets/images/screenshot2.png)
+
+View the app on Heroku by [clicking here](https://workout-exercises.herokuapp.com "Visit the app")!
 
 ## License
 [mit](LICENSE)
